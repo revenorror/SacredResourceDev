@@ -1,5 +1,4 @@
 All submissions must be original work, or licensed under a compatible Creative Commons/open license. 
 Textures or meshes partially based off Morrowind resources are fine for submission, but not inclusion in the repository. Just make sure it is noted with the submission what parts of the model are MW-based so they can be redone. 
 
-Highest resolution version of files should be submitted, unless the lower quality version is substantially different rather than a simple downsampling. 
-- Exported textures should be submitted in a lossless format such as PNG or BMP, along with art program save files and any additional useful separate elements.
+For textures, any art program save files, the highest available resolution version saved in a lossless format such as PNG or BMP, and a low-resolution compressed version in DXT1 or DXT5 DDS should be submitted.
