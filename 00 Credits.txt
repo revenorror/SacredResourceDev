@@ -1,3 +1,7 @@
+LilianaUnfolded
+HE amulets and rings - c\am_he_XXX.nif, ring_he_XXX.nif
+he_XXX.dds
+
 "Chocolate Muffin" (https://skfb.ly/6ZGH9) by Zoltanfood is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 n\muffin1.nif
 n\muffin00.dds
@@ -14,5 +18,6 @@ n\blueberry.png
 
 "Lowpoly Fruits & Vegetables" (https://skfb.ly/6z6Ls) by Loïc Norgeot is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 https://www.pxfuel.com/en/free-photo-jevsf - cc0
-Pomegranate
+n\pom1.nif, pom2.nif
+n\pom.dds
 
