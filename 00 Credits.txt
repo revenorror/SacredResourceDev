@@ -1,6 +1,8 @@
 LilianaUnfolded
 HE amulets and rings - c\am_he_XXX.nif, ring_he_XXX.nif
 he_XXX.dds
+HE Wicker 
+u\he_wicker.dds
 
 "Chocolate Muffin" (https://skfb.ly/6ZGH9) by Zoltanfood is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 n\muffin1.nif
