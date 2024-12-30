@@ -17,6 +17,7 @@ n\bananas_cut01.glb
 n\banana_cut,png
 n\blueberry.nif
 n\blueberry.png
+Juniper berries
 
 "Lowpoly Fruits & Vegetables" (https://skfb.ly/6z6Ls) by Loïc Norgeot is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 https://www.pxfuel.com/en/free-photo-jevsf - cc0
