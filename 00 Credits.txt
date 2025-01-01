@@ -42,3 +42,9 @@ Golden Pear
 
 "Ginger" (https://skfb.ly/6WO8G) by Kathrin&Christian is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 Ginger root
+
+W
+https://opengameart.org/content/low-poly-crossbow
+by Lamoot, CC-BY 3.0
+w\wood_crossbow.nif
+w\lowpoly_crossbow.png
