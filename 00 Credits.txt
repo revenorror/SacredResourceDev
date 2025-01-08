@@ -9,8 +9,6 @@ n\muffin1.nif
 n\muffin00.dds
 
 "pirate gold pile" (https://skfb.ly/oHZpt) by packy films is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-u\gold pile01.nif
-goldcoins_seamless.dds
 
 "🧇waffles low poly🧇" (https://skfb.ly/oHoRM) by gulvtaepper is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).4
 n\bananas_cut01.glb
@@ -45,9 +43,13 @@ Ginger root
 
 "Razorbill Egg" (https://skfb.ly/69tND) by Scarborough Museums and Galleries is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
+"Cooked Shrimp Low poly" (https://skfb.ly/oQ7nC) by cptoey is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 W
 https://opengameart.org/content/low-poly-crossbow
 by Lamoot, CC-BY 3.0
 w\wood_crossbow.nif
 w\lowpoly_crossbow.png
+
+"Firepit" (https://skfb.ly/FUp8) by Anthony V. is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
