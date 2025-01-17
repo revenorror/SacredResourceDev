@@ -94,3 +94,12 @@ he_XXX.dds
 HE Wicker 
 u\he_wicker.dds
 
+MammaHyena
+M_Painting 
+	Dahuul
+	Elf_Merc
+	KingJ
+	Naharin
+	Nille
+
+
