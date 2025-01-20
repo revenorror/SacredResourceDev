@@ -64,6 +64,8 @@ Ginger root
 
 "banana01" (https://skfb.ly/oPAQX) by PionX is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
+"Vanilla Slice" (https://skfb.ly/oFJtV) by Andrei Alexandrescu is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
 O
 
 R
