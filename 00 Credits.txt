@@ -16,11 +16,16 @@ loveliesbleeding.dds
 
 I
 
+"Stalagmites, Collums and Stalacites" (https://skfb.ly/6ZNuo) by RBG_illustrations is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
 L
 
 M
 "Viking "Tea" Party" (https://skfb.ly/6BQUJ) by Nicholas Olsen is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 m_iron_fork.nif, m_iron_knife.nif, m_iron_spoon.nif
+
+"Seashell" (https://skfb.ly/YGFN) by TraianDumbrava is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+m_shell01-03
 
 N
 
