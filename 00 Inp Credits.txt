@@ -1642,8 +1642,6 @@ https://opengameart.org/content/ring-set-precious-metals
 
 "Leather Books" (https://skfb.ly/6uUDZ) by Boooooop is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
-"Hydrangea" (https://skfb.ly/6XCYI) by hui.an.michelle.li is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
 "Exotic Pink Leafed Plant" (https://skfb.ly/6TvCS) by Nicola Hynes is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 "Linen with Flowers" (https://skfb.ly/6WPnx) by sskjellestad is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
@@ -2794,3 +2792,5 @@ https://sketchfab.com/3d-models/medieval-tower-bridge-2e96a904c44f4becafa87b50f6
 "Metal Ingot" (https://skfb.ly/owDIx) by Kigha is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 "Copper Bar" (https://skfb.ly/oAv9n) by Elijah2001 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+"Dark Green Ground Palm" (https://skfb.ly/oqnuH) by The_Structure_World is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
