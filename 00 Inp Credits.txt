@@ -848,8 +848,6 @@ Asylum -
 
 https://www.sharecg.com/v/80819/view/5/3D-Model/Dragon-model-game-scene-%2B-cycles-scene
 
-"Dragon skeleton low-poly" (https://skfb.ly/oMQOv) by mgsawwinhtike3002 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
 "12 Old Books" (https://skfb.ly/orHnt) by Pedro Belthori is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 "Skeleton" (https://skfb.ly/6BJVn) by soidev is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
@@ -1357,11 +1355,7 @@ by ToxaGrom
 
 "Postosuchus" (https://skfb.ly/oLYwA) by Modbuff is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
-"Dragon Skeleton" (https://skfb.ly/oRpQy) by Sammy The Citipati is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
 "Realistic Palm Tree Free" (https://skfb.ly/prWT9) by Next Spring is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
-"Giant cockroach" (https://skfb.ly/oZzSO) by Drillimpact is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 "Fir Trees FREE Low Poly" (https://skfb.ly/otC8V) by LordSamueliSolo is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 "Juniper Trees FREE Low Poly" (https://skfb.ly/otDPY) by LordSamueliSolo is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
@@ -2797,3 +2791,4 @@ https://sketchfab.com/3d-models/medieval-tower-bridge-2e96a904c44f4becafa87b50f6
 
 https://www.deviantart.com/jojo-ojoj/art/Metal-seamless-texture-bronze-461253517
 Bronze texture - CC-BY
+
