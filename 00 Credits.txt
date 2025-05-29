@@ -33,6 +33,15 @@ m_iron_fork.nif, m_iron_knife.nif, m_iron_spoon.nif
 "Seashell" (https://skfb.ly/YGFN) by TraianDumbrava is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 m_shell01-03
 
+Henri Camus
+https://commons.wikimedia.org/wiki/File:Napperon_de_picot_rond.jpg
+https://commons.wikimedia.org/wiki/File:Napperon_de_picot_ovale.JPG
+Licensed under CC-BY-1.0, modified
+
+Auckland Museum
+https://commons.wikimedia.org/wiki/Category:Perciformes_skeletons#/media/File:Polyprion_oxygeneios_(Schneider_and_Forster,_1801)_(AM_MA30388-12).jpg
+Licensed under CC-BY-4.0, modified
+
 N
 
 "Chocolate Muffin" (https://skfb.ly/6ZGH9) by Zoltanfood is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
