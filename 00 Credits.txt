@@ -25,7 +25,11 @@ https://www.inaturalist.org/observations/205567260
 f/tree/bunya foliage.dds
 nebrooks, CC-BY 4.0
 https://www.inaturalist.org/observations/262129265
-f/tree/bunya bark.dds
+f/tree/bunya_bark01.dds
+
+Jacy Chen, CC-BY 4.0
+https://www.inaturalist.org/observations/149412040
+
 
 I
 
